@@ -1,0 +1,60 @@
+# This contains all youtube domains and many youtube mirrors to completely block youtube.
+
+# Official domains
+
+youtube.com
+www.youtube.com
+m.youtube.com
+tv.youtube.com
+
+# Invidous mirrors
+
+invidious.fdn.fr
+vid.puffyan.us
+invidious.tiekoetter.com
+invidious.flokinet.to
+inv.bp.projectsegfau.lt
+inv.pistasjis.net
+yt.artemislena.eu
+invidious.lunar.icu
+inv.tux.pizza
+invidious.privacydev.net
+invidious.io.lol
+vid.priv.au
+inv.zzls.xyz
+yt.oelrichsgarcia.de
+invidious.protokolla.fi
+onion.tube
+iv.nboeck.de
+invidious.asir.dev
+iv.ggtyler.dev
+iv.datura.network
+invidious.private.coffee
+anontube.lvkaszus.pl
+invidious.perennialte.ch
+invidious.slipfox.xyz
+invidious.no-logs.com
+yt.drgnz.club
+yt.cdaut.de
+yewtu.be
+iv.melmac.space
+inv.makerlab.tech
+inv.citw.lgbt
+inv.in.projectsegfau.lt
+invidious.projectsegfau.lt
+
+# Piped links
+
+piped.video
+do.piped.video
+vc.piped.video
+re.piped.video
+fl.piped.video
+nf.piped.video
+az.piped.video
+piped.garudalinux.org
+piped.privacydev.net
+
+# Others
+
+clipzag.com
