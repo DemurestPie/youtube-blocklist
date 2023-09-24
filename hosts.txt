@@ -1,14 +1,23 @@
 # This contains all youtube domains and many youtube mirrors to completely block youtube.
 
 # Official domains
-
 youtube.com
 www.youtube.com
 m.youtube.com
 tv.youtube.com
+www.youtube-nocookie.com
+youtubei.googleapis.com
+youtube.googleapis.com
+restrict.youtube.com
+restrictmoderate.youtube.com
 
 # Invidous mirrors
-
+invidious.io
+docs.invidious.io
+api.invidious.io
+invidious.io
+invidio.us
+redirect.invidious.io
 invidious.fdn.fr
 vid.puffyan.us
 invidious.tiekoetter.com
@@ -44,7 +53,6 @@ inv.in.projectsegfau.lt
 invidious.projectsegfau.lt
 
 # Piped links
-
 piped.video
 do.piped.video
 vc.piped.video
@@ -54,7 +62,13 @@ nf.piped.video
 az.piped.video
 piped.garudalinux.org
 piped.privacydev.net
+piped.smnz.de
+yt.dc09.ru
+il.ax
+piped.simpleprivacy.fr
+pi.ggtyler.dev
+watch.pluto.lat
+efy.piped.pages.dev
 
 # Others
-
 clipzag.com
