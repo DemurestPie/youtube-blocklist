@@ -3,21 +3,8 @@
 # Official domains
 ||ytimg.com^
 ||cctldtest.youtubeeducation.com^
-||s.youtubeeducation.com^
 ||video-analytics.google.com^
 ||withyoutube.com^
-||www.youtube-nocookie.com^
-||www.youtube-noscript.com^
-||www.youtube.be
-||www.youtube.co.uk^
-||www.youtube.com^
-||www.youtube.de^
-||www.youtube.es^
-||www.youtube.fr^
-||www.youtube.nl^
-||www.youtube.pl^
-||www.youtubeeducation.com^
-||www.youtubegaming.com^
 ||youtube-nocookie.com^
 ||youtube-noscript.com^
 ||youtube.be^
@@ -30,14 +17,21 @@
 ||youtube.pl^
 ||youtubeeducation.com^
 ||youtubegaming.com^
+||youtube-nocookie.com^
+||youtube-noscript.com^
+||youtube.be^
+||youtube.co.uk^
+||youtube.com^
+||youtube.de^
+||youtube.es^
+||youtube.fr^
+||youtube.nl^
+||youtube.pl^
 ||youtubei.googleapis.com^
 ||yt3.ggpht.com^
 ||yt3.googleusercontent.com^
 
 # Invidous mirrors
-||invidious.io^
-||docs.invidious.io^
-||api.invidious.io^
 ||invidious.io^
 ||invidio.us^
 ||redirect.invidious.io^
